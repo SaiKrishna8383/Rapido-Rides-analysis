@@ -5,6 +5,9 @@ This Power BI project presents a comprehensive analysis of Rapido ride data for 
 
 This Power BI project provides an end-to-end analysis of **Rapido rides in Bangalore** for the year **2024**.
 
+****<img width="1495" height="871" alt="image" src="https://github.com/user-attachments/assets/ee63cd73-dd19-4d79-a848-cbb6eaadc064" />
+
+
 ## 📊 Key Features
 
 - Total and monthly ride volume trends
